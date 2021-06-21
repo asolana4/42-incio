@@ -1,0 +1,5 @@
+Credentials cache: API:ADF98A4F-8C9F-4230-8A60-10EF45E80397
+        Principal: asolana-@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 18:35:26 2021  Jun 22 04:35:18 2021  krbtgt/42MADRID.COM@42MADRID.COM
